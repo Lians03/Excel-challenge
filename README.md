@@ -4,4 +4,4 @@ In the ever-evolving landscape of crowdfunding, platforms like Kickstarter and I
 
 # Approach
 
-Our analysis begins by organizing and examining the provided dataset, applying techniques such as conditional formatting, pivot tables, and statistical analysis to gain valuable insights. Through meticulous exploration, we aim to answer pivotal questions and draw meaningful conclusions about crowdfunding campaigns.
+My  analysis begins by organizing and examining the provided dataset, applying techniques such as conditional formatting, pivot tables, and statistical analysis to gain valuable insights. Through meticulous exploration, we aim to answer pivotal questions and draw meaningful conclusions about crowdfunding campaigns.
